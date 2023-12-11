@@ -11,7 +11,7 @@ victorgabrielfrancisco@gmail.com
 
 ---
 
-I am 20 years old, currently a student of Information Systems at Unit. I am passionate about technology and am always eager to learn and innovate. I hold a technical degree in Systems Analysis from SENAI and I am currently working full-stack in Empresa De saneamento de Sergipe . I use the Dankicode platform to enhance my skills and have obtained certificates in Python and PHP. I am actively seeking new specializations. I work well in a team and have good relationships with my colleagues.
+Currently a student of Information Systems at Unit. I am passionate about technology and am always eager to learn and innovate. I hold a technical degree in Systems Analysis from SENAI and I am currently working full-stack in Empresa De saneamento de Sergipe . I use the Dankicode platform to enhance my skills and have obtained certificates in Python and PHP. I am actively seeking new specializations. I work well in a team and have good relationships with my colleagues.
 
 ### 🧑‍💼 Expirence:
 
