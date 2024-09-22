@@ -7,34 +7,38 @@ victorgabrielfrancisco@gmail.com
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-gabriel-vieira-67b5b1244/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabriel.viictor/)
 
-### 💻 About My Background:
+### 💻 Sobre Meu Histórico:
 
 ---
 
-Currently a student of Information Systems at Unit. I am passionate about technology and am always eager to learn and innovate. I hold a technical degree in Systems Analysis from SENAI and I am currently working full-stack in Empresa De saneamento de Sergipe . I use the Dankicode platform to enhance my skills and have obtained certificates in Python and PHP. I am actively seeking new specializations. I work well in a team and have good relationships with my colleagues.
+Atualmente, trabalho como Desenvolvedor Fullstack. Iniciei na área em 2019, utilizando HTML, CSS e Java para a construção de alguns projetos. Hoje, estou alocado em um cliente do ramo financeiro, com foco em tecnologias como Angular, C#, e Cloud AWS. Minha stack também inclui Java, Python, PHP, Node.js e TypeScript. Tenho conhecimentos avançados em tecnologias Front-end, como JavaScript e Flutter, e na área de banco de dados, possuo experiência com SQL, MySQL e PostgreSQL. Estou sempre buscando novos conhecimentos para inovar e desenvolver boas soluções!
 
-### 🧑‍💼 Expirence:
-
----
-
-Developer Full-Stack in Empresa de Saneamento de Sergipe (DESO)
-
-### 📖 Formation:
+### 🧑‍💼 Experiência:
 
 ---
 
-- Tecnology - Analise e desenvolvimento de sistemas (SENAI)
-- Graduation - Sistema da informção (Universidade Tiradentes)
-- Graduation - Engenharia eletrônica (Universidade Federal de Sergipe)
+- Developer Full-Stack in Empresa de Saneamento de Sergipe (DESO)
+- Developer BackEnd Avonale Workplace (FANDI)
+- Developer Full-Stack Ilegra (BTG-Pactual)
 
-### 👨‍💻 Languages:
+### 📖 Formação:
 
 ---
 
+- Tecnologo - Analise e desenvolvimento de sistemas (SENAI)
+- Graduação - Sistema da informção (Universidade Tiradentes)
+- Graduação - Engenharia eletrônica (Universidade Federal de Sergipe)
+
+### 👨‍💻 Linguagens:
+
+---
+
+[![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/pt-br/)
+[![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/pt/free/?gclid=Cj0KCQjwgL-3BhDnARIsAL6KZ688U8Vq0eKfxo8jk9lLPr7FH4GCYFSCWLRo1ILBDkQ3wxxtJUqDmd0aAmInEALw_wcB&trk=2ee11bb2-bc40-4546-9852-2c4ad8e8f646&sc_channel=ps&ef_id=Cj0KCQjwgL-3BhDnARIsAL6KZ688U8Vq0eKfxo8jk9lLPr7FH4GCYFSCWLRo1ILBDkQ3wxxtJUqDmd0aAmInEALw_wcB:G:s&s_kwcid=AL!4422!3!696214219374!e!!g!!aws!15278604629!130587771740&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all)
+[![ANGULAR](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.dev)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/?gclid=CjwKCAjw4P6oBhBsEiwAKYVkq8bfvlo-NHNng2IBpWmDbQdXbecJuoCG2_xdjYk6JuhkKnkD3OraCBoCezQQAvD_BwE&gclsrc=aw.ds)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
-[![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
 [![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.devart.com/litedac/features.html?gclid=CjwKCAjw4P6oBhBsEiwAKYVkq0e-aSV_PLbtc6da4ICy0FKMjm3j8lJgGGPFuOSP__EjRnrQ6I0obRoCeHgQAvD_BwE)
 [![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.postgresql.org)
@@ -43,7 +47,7 @@ Developer Full-Stack in Empresa de Saneamento de Sergipe (DESO)
 [![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com)
 
-### 📊 Skills:
+### 📊 Habilidades:
 
 ---
 
